@@ -1,6 +1,6 @@
 # Write your code here.
 def badge_maker(name)
-  return "Hello, my name is #{name}!"
+  return puts "Hello, my name is #{name}!"
 end
 
 array = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
